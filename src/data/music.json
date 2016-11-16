@@ -1,0 +1,78 @@
+{
+	"message" : "请求成功",
+	"status" : 0,
+	 "data" : [
+	 	{
+	 		"musicName" : "后会无期",
+		 	"musicAuthor" : "邓紫棋",
+		 	"musicCover" : "./img/1.jpg",
+		 	"src" : "./audio/1.mp3"
+	 	},
+	 	{
+	 		"musicName" : "我很快乐",
+		 	"musicAuthor" : "刘惜君",
+		 	"musicCover" : "./img/2.jpg",
+		 	"src" : "./audio/2.mp3"
+	 	},
+	 	{
+	 		"musicName" : "2375",
+		 	"musicAuthor" : "棉花糖",
+		 	"musicCover" : "./img/3.jpg",
+		 	"src" : "./audio/2375.mp3"
+	 	},
+	 	{
+	 		"musicName" : "你的肩膀我的远方",
+		 	"musicAuthor" : "棉花糖",
+		 	"musicCover" : "./img/4.jpg",
+		 	"src" : "./audio/3.mp3"
+	 	},
+	 	{
+	 		"musicName" : "B612",
+		 	"musicAuthor" : "棉花糖",
+		 	"musicCover" : "./img/5.jpg",
+		 	"src" : "./audio/B612.mp3"
+	 	},
+	 	{
+	 		"musicName" : "对的人",
+		 	"musicAuthor" : "那英",
+		 	"musicCover" : "./img/6.jpg",
+		 	"src" : "./audio/4.mp3"
+	 	},
+	 	{
+	 		"musicName" : "有个爱你的人不容易",
+		 	"musicAuthor" : "那英",
+		 	"musicCover" : "./img/7.jpg",
+		 	"src" : "./audio/5.mp3"
+	 	},
+	 	{
+	 		"musicName" : "演员",
+		 	"musicAuthor" : "薛之谦",
+		 	"musicCover" : "./img/8.jpg",
+		 	"src" : "./audio/6.mp3"
+	 	},
+	 	{
+	 		"musicName" : "可惜我是水瓶座",
+		 	"musicAuthor" : "杨千嬅",
+		 	"musicCover" : "./img/9.jpg",
+		 	"src" : "./audio/7.mp3"
+	 	},
+	 	{
+	 		"musicName" : "偿还",
+		 	"musicAuthor" : "杨子姗",
+		 	"musicCover" : "./img/10.jpg",
+		 	"src" : "./audio/8.mp3"
+	 	},
+	 	{
+	 		"musicName" : "给我一个吻",
+		 	"musicAuthor" : "杨子姗",
+		 	"musicCover" : "./img/10.jpg",
+		 	"src" : "./audio/9.mp3"
+	 	},
+	 	{
+	 		"musicName" : "伤心是留给回忆的糖",
+		 	"musicAuthor" : "张磊",
+		 	"musicCover" : "./img/6.jpg",
+		 	"src" : "./audio/10.mp3"
+	 	}
+	 ]
+}
