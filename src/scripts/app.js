@@ -10,7 +10,7 @@ var myMusic = {
 		$.ajax({
 			url : '/src/data/music.json',
 			dataType : 'json',
-			success : function(data){				
+			success : function(data){
 				var str = '';
 				musicSum = data.data.length;//得到歌曲总数
 				$.each(data.data, function(i, value){
@@ -52,7 +52,7 @@ var myMusic = {
 		$('#musicCover').find('img').attr('src', cover);
 		$('#playButton').html('<i class="iconfont">&#xe73c;</i>');
 		$('#musicInfo').find('p').eq(0).text(name);
-		$('#musicInfo').find('p').eq(1).text(author);	
+		$('#musicInfo').find('p').eq(1).text(author);
 		audio.play();
 	},
 	/**
@@ -128,4 +128,3 @@ myMusic.updateList();//iscroll
 myMusic.playAction();//暂停播放按钮
 myMusic.nextSongAction();//点击按钮播放下一首
 myMusic.playNextMusic()//歌曲完成后自动播放下一首
-
