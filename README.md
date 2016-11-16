@@ -1,2 +1,2 @@
 # audio
-a player designed myself
+业余时间做的一个音乐播放器
